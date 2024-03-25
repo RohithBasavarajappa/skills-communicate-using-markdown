@@ -4,3 +4,6 @@
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+![ima](https://github.com/RohithBasavarajappa/skills-communicate-using-markdown/assets/34371639/08258e6f-fc1d-432d-b0a4-4fd40e792d37)
+
